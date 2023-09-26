@@ -1,0 +1,26 @@
+@font-face {
+  font-family: PipJS;
+  src: url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAARQAA0AAAAABmwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAENAAAABoAAAAciZLyoUdERUYAAAQYAAAAHAAAAB4AJwANT1MvMgAAAYwAAAA5AAAAYA7SDxhjbWFwAAAB4AAAAFUAAAFeDzbqI2dhc3AAAAQQAAAACAAAAAgAAAAQZ2x5ZgAAAkgAAAC6AAABKLkhIepoZWFkAAABMAAAACsAAAA2F/AQlWhoZWEAAAFcAAAAGAAAACQI5ATraG10eAAAAcgAAAAYAAAAHA44ACtsb2NhAAACOAAAABAAAAAQAG4AtG1heHAAAAF0AAAAGAAAACAACwAnbmFtZQAAAwQAAADVAAABaz/aqLBwb3N0AAAD3AAAADEAAABPbMFuVHjaY2BkYGAAYrN5P9Ti+W2+MnCzMIDAze+pZ5BplsdgcQ4GJhAFADoZCpoAeNpjYGRgYGEAAZbHUJKRARWwAwAomwHceNpjYGRgYGBnUGVgZgABJgY0AAAFAAAzeNpjYGbxZpzAwMrAwDST6QwDA0M/hGZ8zWDMyMmAChgF0AQYHBgYPyqxgJksUDVIsgoMjADfxAcCAAAAeNpjYYAAxlAGOGBhYNBmeczAAAAKnwFxeNpjYGBgZoBgGQZGBhCIAPIYwXwWBhsgzcXAwcAEhIwMCh+V/v/9/x+sSuGjIoT9/wnfE7AOLgYYYASZx8gGxMxQASYgwcSACoB2sDAMbwAAbs0OSAAAAAAAAAAACAAIABAAGABWAJR42oWOzQ2CQBCFHzsbOECykl1ZQkIQNXDg5m8sRKyDDqiHQuzACmgD1F2I8cgcJt/Me3kzcPArBtwYlmZChZZe1BrKsAOcPMx1eCqLstjlW8/13HWodKSjY364Xq6X0uhUvTun7vxAKj1CKxn4E9PM99GEseqDmtWxnEUZj52WyrKSmj3sB2Qb77mlDfbLt8+eMXAMPaW9EEmSDciSZCXEyjC3LEQzgIPS8dlQOi1mY/83OpThC/HBJcoAAHjaVY2xbsJAEESfsXEIiVKmQBRXpIwskFKkoEaioIkiagycjCV0h4wp+J18QL4xY2sLcqtdvR3N3AIv/JLQvYSUkfGAB6bGqerdOBN/Gg954ts4l340HjPhR3uSPUrJ+x86HujWs3Eq/c04E8+Mh7yyMM5VW+MxH5w4U6s51xpfeCquUksarb66nkrBveeeN/I3XKREAo45ha6y8c2ljsHNi9l//7L3tXJWSoY+XWr3HKTtuGmu2Mu1VnfeQqEYWlf54Juy9Qe3u7nVPq5jDAV/fiQvSwAAAHjaY2BiwA/YGRgYmRiYGJkZmBlZGFnZ0nMqCzIM2UvzMg0MDMC0m6ERjDYCAJgICOsAAAAAAQAB//8AD3jaY2BkYGDgAWIxIGZiYARCNiBmAfMYAAPgADV42mNgYGBkAIKrS9Q5QPTN76lnYDQASBEHrAAA) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.vjs-icon-pip-enter, .video-js .vjs-pip-control .vjs-icon-placeholder {
+  font-family: PipJS;
+  font-weight: 400;
+  font-style: normal;
+}
+.vjs-icon-pip-enter:before, .video-js .vjs-pip-control .vjs-icon-placeholder:before {
+  content: "\f121";
+  font-size:1.6em;
+  line-height:1.9;
+}
+.video-js.vjs-picture-in-picture .vjs-pip-control .vjs-icon-placeholder  {
+  font-family: PipJS;
+  font-weight: normal;
+  font-style: normal;
+}
+.video-js.vjs-picture-in-picture .vjs-pip-control .vjs-icon-placeholder:before {
+  content: "\f122";
+  font-size:1.4em;
+  line-height:2.2;
+}

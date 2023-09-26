@@ -1,0 +1,79 @@
+-------------- Database phpMyadmin -------------
+http://beta.vidizu.com/phpMyAdmin/index.php?db=vidizu&table=broadcasters&target=tbl_select.php&token=cab87f622e48f90c75c062f660ccb8a8#PMAURL-1:sql.php?db=vidizu&table=ppv_tickets&server=1&target=&token=cab87f622e48f90c75c062f660ccb8a8
+
+USER wp
+Pass SNKs4XLS
+
+-------------- Cpanel -----------------
+cpanel.playfullscreen.a2hosted.com
+
+user playfull
+pass z79B5+EpgE3.pR
+
+------- database ------
+user playfull_admin_v2
+pass }ZV~%PxYWNS7
+
+
+----------- old site url ----------
+playfullscreen.com
+
+----------- Video Stream API -------
+https://castr.com/api#get-stream-details
+
+region:5afd44bd49db36723437135c
+
+----------- Google Doc ------------
+https://docs.google.com/presentation/d/1tjm5hQSU3DsSlDXLM6LPw7hC0pEevh559BF8KSoq1Fo/edit?usp=sharing
+
+
+
+-------------- Laravel Admin Panel ---------------
+https://dashboard.playfullscreen.a2hosted.com/broadcasts
+
+-------------- React Dashboard(Frontend) ---------
+https://api.playfullscreen.a2hosted.com
+
+
+https://docs.google.com/spreadsheets/d/1-Ble1vshRLokm5x_m0RmbQA7pLTI3LgXazcsxcacrt8/edit?usp=sharing
+
+
+-------------- Video Streaming URLs ---------------
+http://video.bunnycdn.com/library/99534/videos/
+
+https://vz-7ab8c5be-62f.b-cdn.net/
+
+
+
+https://voltage.cloud/btcpay/
+https://youtu.be/F-2tDH9J-_s
+https://coinos.io/
+
+Patrick export token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+
+
+
+
+eyJpZCI6ImUxYTYzZmJjLTE4NzEtNDIzZC1hNTljLWJmN2U3NWJmNWVmYiIsImlhdCI6MTY4MzIzMDcyNH0.
+
+
+
+
+
+B1pYHfj0CduFNOQtU2kurqzVEXxZM0SdvHlAC2NgIDonfkch
+
+
+Dave Coinos Token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+
+
+
+eyJpZCI6IjkwY2M4MjQ4LTJiNTYtNDJmZS1hMjIxLTRhZTRjOTkzYmFhNCIsImlhdCI6MTY4NjMzNzU0M30.
+
+
+
+
+adzbUozv-a5Yox0y5cOvP1J_bgqLbtrVpe7gHiKlGRUnfkch
+
+84.17.38.140

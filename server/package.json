@@ -1,0 +1,32 @@
+{
+  "name": "api-playfullscreen",
+  "version": "1.0.0",
+  "description": "Mysql NodeJS Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "Mysql",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "moment": "^2.29.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "2",
+    "request": "^2.88.2",
+    "stripe": "^12.5.0",
+    "supertokens-node": "^12.1.5"
+  }
+}
