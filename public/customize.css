@@ -1,0 +1,65 @@
+
+.item-end
+{
+    visibility: hidden;
+}
+
+div[class*=" svelte-"] {
+    z-index: 100;
+    margin: 0 !important;
+    padding: 4px !important;     
+}
+
+div[class*=" svelte-"] a {
+    background-image: url('./images/nostr-logo.png');
+    background-size: contain;
+    background-color: black !important;
+}
+
+.shadow-2xl {
+    background-color: transparent !important;
+}
+
+div[class*=" svelte-"] a:hover {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: white !important;
+}
+
+div[class*=" svelte-"] a * {
+    display: none;
+}
+
+.shadow-sm div[class*=" svelte-"] {
+    background: white;
+}
+
+.shadow-2xl div[class*=" svelte-"] button {
+    background-color: #007bff;
+    color: white;
+}
+
+.shadow-2xl div[class*=" svelte-"] button:hover{
+    background-color: white;
+    outline: 2px solid #007bff;
+    color: #007bff;
+    transition-duration: 1s;
+}
+
+.shadow-2xl div[class*=" svelte-"] .bg-purple-700 {
+    background-color: #007bff !important;
+    border-top-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+}
+
+#message-input {
+    color: white;
+    height: 40px;
+    border: none;
+    margin-top: 10px;
+}
+
+#message-input + button {
+    border: none !important;
+    border-radius: 100px !important;
+}

@@ -1,0 +1,8 @@
+.NostrChatWidget .show-button {
+  background-color: #fff;
+  border-radius: 10px;
+  position: absolute;
+  right: 0;
+  bottom: 50px;
+  cursor: pointer;
+}
